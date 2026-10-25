@@ -1,1 +1,1 @@
-# customer-churn-prediction
+A machine learning pipeline built in Python using Scikit-Learn to predict customer churn, evaluate model accuracy with ROC-AUC metrics, and analyze key feature importance factors influencing customer retention.
